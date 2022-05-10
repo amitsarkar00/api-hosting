@@ -1,0 +1,8 @@
+*.pem
+env
+my_requirements.txt
+hypercorn.txt
+commands.txt
+db.sqlite3
+*.pyc
+__pycache__/
